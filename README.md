@@ -30,7 +30,7 @@ b.) メッセージ下部の **URL, Code** を手動で AmongUsCapture へ入力
 4. Among Us capture起動(初回のみ)
 5. `.ehe new` `.ehe n`のどちらかのコマンドを任意のテキストチャンネルへ送信
 6. Ehemong_UsからDMでメッセージが送信される  
-7. [How to AutoMuteUs](#how to automuteus)
+7. [How to AutoMuteUs](#how-to-automuteus)
 ## コマンド
 | AutoMuteUs Command   | AutoMuteUs Alias | Ehemong_Us Command   | Ehemong_Us Alias | Arguments   | Description                                                                                                     | Example                            |
 | -------------- | ------- |  -------------- | ------- |----------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
