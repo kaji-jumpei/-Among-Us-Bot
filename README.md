@@ -11,4 +11,4 @@
 1. Among Us capture起動
 2. `.au new` `.au n`のどちらかのコマンドを任意のテキストチャンネルへ送信
 3. AutoMuteUsからDMでメッセージが送信される． 
-  ![画像の説明](images/AutoMuteUs part1.jpg "AutoMuteUs")
+  ![AutoMuteUs DM](images/AutoMuteUs01.jpg "AutoMuteUs")
