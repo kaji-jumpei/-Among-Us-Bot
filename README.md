@@ -24,8 +24,13 @@ b.) メッセージ下部の **URL, Code** を手動で AmongUsCapture へ入力
 6. 各プレイヤーが Discord 上で，**自分の色と同じリアクションの絵文字**をクリック
 
 ## How to Ehemong_Us
-1. [automuteus_windows(v2.4.2)](https://github.com/denverquane/automuteus/releases/tag/2.4.3) ダウンロード → 解凍後automuteus_windows.exe 起動
-
+1. [automuteus_windows(v2.4.2)](https://github.com/denverquane/automuteus/releases/tag/2.4.3) ダウンロード → 解凍後 automuteus_windows.exe 起動
+2. automuteus_windows.exe同フォルダ内に**config.txt**ができており，中身の`DISCORD_BOT_TOKEN=`にトークンコードを貼り付
+3. 改めて automuteus_windows.exe を起動
+4. Among Us capture起動(初回のみ)
+5. `.ehe new` `.ehe n`のどちらかのコマンドを任意のテキストチャンネルへ送信
+6. Ehemong_UsからDMでメッセージが送信される  
+7. [How to AutoMuteUs](#how to automuteus)
 ## コマンド
 | AutoMuteUs Command   | AutoMuteUs Alias | Ehemong_Us Command   | Ehemong_Us Alias | Arguments   | Description                                                                                                     | Example                            |
 | -------------- | ------- |  -------------- | ------- |----------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
