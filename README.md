@@ -25,14 +25,14 @@ b.) メッセージ下部の **URL, Code** を手動で AmongUsCapture へ入力
 
 ### コマンド
 | AutoMuteUs Command   | AutoMuteUs Alias | Ehemong_Us Command   | Ehemong_Us Alias | Arguments   | Description                                                                                                     | Example                            |
-| -------------- | ------- | ----------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| `.au help`     | `.au h` | None        | Print help info and command usage                                                                               |                                    |
-| `.au new`      | `.au n` | None        | Start a new game in the current text channel. Optionally accepts the room code and region                       | `.au n CODE eu`                    |
-| `.au link`     | `.au l` | @name color | Manually link a discord user to their in-game color                                                             | `.au l @Soup cyan`                 |
-| `.au refresh`  | `.au r` | None        | Remake the bot's status message entirely, in case it ends up too far up in the chat.                            |                                    |
-| `.au end`      | `.au e` | None        | End the game entirely, and stop tracking players. Unmutes all and resets state                                  |                                    |
-| `.au unlink`   | `.au u` | @name       | Manually unlink a player                                                                                        | `.au u @player`                    |
-| `.au settings` | `.au s` |             | View and change settings for the bot, such as the command prefix or mute behavior                               |                                    |
-| `.au pause`    | `.au p` | None        | Pause the bot, and don't let it automute anyone until unpaused. **will not un-mute muted players, be careful!** |                                    |
-| `.au privacy`  |         |             | View privacy and data collection information about the bot                                                      |                                    |
-| `.au info`     | `.au i` | None        | View general info about the Bot                                                                                 |                                    |
+| -------------- | ------- |  -------------- | ------- |----------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| `.au help`     | `.au h` | `.au help`     | `.au h` | None        | Print help info and command usage                                                                               |                                    |
+| `.au new`      | `.au n` | | | None        | Start a new game in the current text channel. Optionally accepts the room code and region                       | `.au n CODE eu`                    |
+| `.au link`     | `.au l` | | | @name color | Manually link a discord user to their in-game color                                                             | `.au l @Soup cyan`                 |
+| `.au refresh`  | `.au r` | | | None        | Remake the bot's status message entirely, in case it ends up too far up in the chat.                            |                                    |
+| `.au end`      | `.au e` | | | None        | End the game entirely, and stop tracking players. Unmutes all and resets state                                  |                                    |
+| `.au unlink`   | `.au u` | | | @name       | Manually unlink a player                                                                                        | `.au u @player`                    |
+| `.au settings` | `.au s` | | |             | View and change settings for the bot, such as the command prefix or mute behavior                               |                                    |
+| `.au pause`    | `.au p` | | | None        | Pause the bot, and don't let it automute anyone until unpaused. **will not un-mute muted players, be careful!** |                                    |
+| `.au privacy`  |         | | |             | View privacy and data collection information about the bot                                                      |                                    |
+| `.au info`     | `.au i` | | | None        | View general info about the Bot                                                                                 |                                    |
