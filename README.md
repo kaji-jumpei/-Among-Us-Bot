@@ -13,6 +13,6 @@
 3. AutoMuteUsからDMでメッセージが送信される  
 ![AutoMuteUs DM](images/AutoMuteUs01.jpg "AutoMuteUs")
 
-4. **Click the following link to link your capture:** をクリック
-4-b. メッセージ下部の **URL, Code** を手動で AmongUsCapture へ入力  
+4. a.) **Click the following link to link your capture:** をクリック  
+b.) メッセージ下部の **URL, Code** を手動で AmongUsCapture へ入力  
 ![AmongUsCapture link](images/linkus.jpg "LinkUs")
