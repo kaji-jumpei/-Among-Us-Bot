@@ -37,11 +37,11 @@ b.) メッセージ下部の **URL, Code** を手動で AmongUsCapture へ入力
 | -------------- | ------- |  -------------- | ------- |----------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
 | `.au help`     | `.au h` | `.ehe help`     | `.ehe h` | None        | ヘルプ表示                                                                               |                                    |
 | `.au new`      | `.au n` |`.ehe new`      | `.ehe n`| None        | 現在のテキストチャンネルで新規ゲーム開始．オプションで部屋コード，地域を設定可能(なしで大丈夫)                      | `.au n CODE eu`                    |
-| `.au link`     | `.au l` |`.ehe link`     | `.ehe l`| @name color | Manually link a discord user to their in-game color                                                             | `.au l @Soup cyan`                 |
-| `.au refresh`  | `.au r` | `.ehe refresh`  | `.ehe r` | None        | Remake the bot's status message entirely, in case it ends up too far up in the chat.                            |                                    |
-| `.au end`      | `.au e` | `.ehe end`      | `.ehe e` | None        | End the game entirely, and stop tracking players. Unmutes all and resets state                                  |                                    |
-| `.au unlink`   | `.au u` |`.ehe unlink`   | `.ehe u`| @name       | Manually unlink a player                                                                                        | `.au u @player`                    |
-| `.au settings` | `.au s` |`.ehe settings` | `.ehe s`|             | View and change settings for the bot, such as the command prefix or mute behavior                               |                                    |
-| `.au pause`    | `.au p` | `.ehe pause`    | `.ehe p`| None        | Pause the bot, and don't let it automute anyone until unpaused. **will not un-mute muted players, be careful!** |                                    |
-| `.au privacy`  |         |`.ehe privacy` | |             | View privacy and data collection information about the bot                                                      |                                    |
-| `.au info`     | `.au i` | `.ehe info`     | `.ehe i`| None        | View general info about the Bot                                                                                 |                                    |
+| `.au link`     | `.au l` |`.ehe link`     | `.ehe l`| @name color | 手動でユーザをBotとリンク.色：Red, Blue, Green, Pink, Orange, Yellow, Black, White, Purple, Brown, Cyan, Lime                                                           | `.au l @Soup cyan`                 |
+| `.au refresh`  | `.au r` | `.ehe refresh`  | `.ehe r` | None        | テキストチャンネルでBotの表示を一番下に作り直す                   |
+| `.au end`      | `.au e` | `.ehe end`      | `.ehe e` | None        | ゲーム終了．全ユーザのミュートを解除．                  |
+| `.au unlink`   | `.au u` |`.ehe unlink`   | `.ehe u`| @name       | 手動でユーザとBotのリンクを解除．                                                                                        | `.au u @player`                    |
+| `.au settings` | `.au s` |`.ehe settings` | `.ehe s`|             | 設定表示                  |
+| `.au pause`    | `.au p` | `.ehe pause`    | `.ehe p`| None        | Botを一時停止，解除するまで誰もミュートしないよ．**既にミュートされたユーザは解除されないので注意！**                       |
+| `.au privacy`  |         |`.ehe privacy` | |             | Botのプライバシーとデータ収集情報を表示                                                 |                                    |
+| `.au info`     | `.au i` | `.ehe info`     | `.ehe i`| None        | Botに関する一般情報を表示                                                                                 |                                    |
