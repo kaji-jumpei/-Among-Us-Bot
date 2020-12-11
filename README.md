@@ -24,7 +24,7 @@ b.) メッセージ下部の **URL, Code** を手動で AmongUsCapture へ入力
 6. 各プレイヤーが Discord 上で，**自分の色と同じリアクションの絵文字**をクリック
 
 ### コマンド
-| Command        | Alias   | Arguments   | Description                                                                                                     | Example                            |
+| AutoMuteUs Command   | AutoMuteUs Alias | Ehemong_Us Command   | Ehemong_Us Alias | Arguments   | Description                                                                                                     | Example                            |
 | -------------- | ------- | ----------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
 | `.au help`     | `.au h` | None        | Print help info and command usage                                                                               |                                    |
 | `.au new`      | `.au n` | None        | Start a new game in the current text channel. Optionally accepts the room code and region                       | `.au n CODE eu`                    |
