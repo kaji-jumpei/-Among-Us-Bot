@@ -12,5 +12,4 @@
 2. `.au new` `.au n`のどちらかのコマンドを任意のテキストチャンネルへ送信
 3. AutoMuteUsからDMでメッセージが送信される  
 ![AutoMuteUs DM](images/AutoMuteUs01.jpg "AutoMuteUs")
-
-4. aaa
+4. *Click the following link to link your capture:* をクリック
