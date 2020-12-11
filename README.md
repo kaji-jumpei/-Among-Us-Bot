@@ -5,8 +5,12 @@
   - Steam Among Us
   - [Among Us capture (Windowsソフト) ](https://github.com/denverquane/amonguscapture/releases/latest)
 - どちらかのBotへのコマンド送信，管理
-  - AutoMuteUs 
+  - AutoMuteUs
+    - 起動：簡単
+    - 時間帯によって混雑して使えません
   - Ehemong_Us
+    - 起動：面倒
+    - ホストが起動していれば，いつでも使用可能
  
 ## How to AutoMuteUs
 1. Among Us capture起動(初回のみ)
