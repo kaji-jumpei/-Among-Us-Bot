@@ -35,8 +35,8 @@ b.) メッセージ下部の **URL, Code** を手動で AmongUsCapture へ入力
 ## コマンド
 | AutoMuteUs Command   | AutoMuteUs Alias | Ehemong_Us Command   | Ehemong_Us Alias | Arguments   | Description                                                                                                     | Example                            |
 | -------------- | ------- |  -------------- | ------- |----------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| `.au help`     | `.au h` | `.ehe help`     | `.ehe h` | None        | Print help info and command usage                                                                               |                                    |
-| `.au new`      | `.au n` |`.ehe new`      | `.ehe n`| None        | Start a new game in the current text channel. Optionally accepts the room code and region                       | `.au n CODE eu`                    |
+| `.au help`     | `.au h` | `.ehe help`     | `.ehe h` | None        | ヘルプ表示                                                                               |                                    |
+| `.au new`      | `.au n` |`.ehe new`      | `.ehe n`| None        | 現在のテキストチャンネルで新規ゲーム開始．オプションで部屋コード，地域を設定可能(なしで大丈夫)                      | `.au n CODE eu`                    |
 | `.au link`     | `.au l` |`.ehe link`     | `.ehe l`| @name color | Manually link a discord user to their in-game color                                                             | `.au l @Soup cyan`                 |
 | `.au refresh`  | `.au r` | `.ehe refresh`  | `.ehe r` | None        | Remake the bot's status message entirely, in case it ends up too far up in the chat.                            |                                    |
 | `.au end`      | `.au e` | `.ehe end`      | `.ehe e` | None        | End the game entirely, and stop tracking players. Unmutes all and resets state                                  |                                    |
