@@ -18,4 +18,5 @@ b.) メッセージ下部の **URL, Code** を手動で AmongUsCapture へ入力
 ![AmongUsCapture link](images/linkus.jpg "LinkUs")  
 ![AmongUsCapture link](images/linkus2.jpg "LinkUs")  
 
-5. aaa
+5. テキストチャンネル内のAutoMuteUs Botの表示がグリーンになれば完了
+![AmongUsCapture link](images/AutoMuteUsChanged.jpg "LinkUs")  
