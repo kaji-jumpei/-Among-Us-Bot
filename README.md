@@ -9,13 +9,6 @@
  
 ## How to AutoMuteUs
 1. Among Us capture起動
-2. 以下のどちらかのコマンドを任意のテキストチャンネルへ送信
-```
-.au new
-```
-```
-.au n
-```
+2. `.au new` `.au n`のどちらかのコマンドを任意のテキストチャンネルへ送信
 3. AutoMuteUsからDMでメッセージが送信される． 
-
-![画像の説明](images/image.png "hero")
+  ![画像の説明](images/image.png "hero")
