@@ -15,4 +15,7 @@
 
 4. a.) **Click the following link to link your capture:** をクリック  
 b.) メッセージ下部の **URL, Code** を手動で AmongUsCapture へ入力  
-![AmongUsCapture link](images/linkus.jpg "LinkUs")
+![AmongUsCapture link](images/linkus.jpg "LinkUs")  
+![AmongUsCapture link](images/linkus2.jpg "LinkUs")  
+
+5. aaa
